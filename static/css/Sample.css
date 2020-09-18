@@ -1,0 +1,22 @@
+h1{
+	color: green
+	
+	
+}
+
+ul{
+	color: blue
+}
+img{
+	/*border-color: red
+	border-width:thick;
+	border-style: groove;
+	border-radius: 10px;
+	border: red 5px solid;
+	border-radius: 10px;*/
+	border-left: red 5px solid;
+}
+
+body{
+	background: green
+}
